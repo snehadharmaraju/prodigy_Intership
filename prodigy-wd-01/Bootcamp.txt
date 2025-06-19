@@ -1,0 +1,23 @@
+Design Courses & Workshops 
+<i class='bx bx-palette'></i> 
+UI Bootcamp 
+Create your own user interface project 
+<i class='bx bx-sidebar'></i> 
+UX Bootcamp 
+Learn the basics of users experience design in 6 weeks 
+<i class='bx bx-rocket'></i> 
+UX Project 
+Create your own user experience project 
+<i class='bx bx-user-voice'></i> 
+Company Courses 
+Get custom training for your employess 
+Teach Workshops 
+<i class='bx bx-code-block'></i> 
+Front-End Quartely 
+Stay up to date with front-end trends in every quarter of the ye 
+<i class='bx bx-select-multiple'></i> 
+Front-End Retraining 
+Take up front-end programming as a back-end programmer 
+<i class='bx bx-shield-quarter'></i> 
+Security by Design 
+Learn how to minimaze security risks in your design 
